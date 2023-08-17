@@ -4,6 +4,7 @@
  with were vectors, hash tables, and binary search trees. During the course, we 
  simultaneously learned how to code the algorithms in C++ and write the pseudocode for
  the algorithms. 
+ 
    The amount of time it takes an algorithm to run is a primary reason for 
  understanding data structures. For my final project, I decided to use the binary 
  tree algorithm. It felt like this data structure would be most efficient for 
@@ -12,6 +13,7 @@
  would have worked just fine as well, as they all have similar run times. But, when
  concerned with much larger projects, understanding the data structure time differences
  is essential to writing an efficient application.
+ 
    There were many times that I was stuck this term. I did find that writing out
  the pseudocode and using illustrations, helped tremendously when understanding the
  logic of the code. Also, using a little bit of extra spacing while programming helped
